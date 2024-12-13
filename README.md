@@ -2,34 +2,22 @@
 ## About Me: 
 - I am located in: Dallas, Texas 
 - Senior at the University of North Texas Honors College
-## - Pursuing a Bachelor of Business Administration in Business Analytics with a concentration in Information Systems 
-## - Honors student with a 4.0 GPA, actively seeking data analytics internships and full-time opportunities
-## - My areas of interest: Data preprocessing and cleaning, data warehousing, data mining, and data visualization
+- Pursuing a Bachelor of Business Administration in Business Analytics with a concentration in Information Systems 
+- Honors student with a 4.0 GPA, actively seeking data analytics internships and full-time opportunities
+- My areas of interest: Data preprocessing and cleaning, data warehousing, data mining, and data visualization
 
 ## Skills:
-## - Programming languages: Java, SQL, T-SQL 
-## - Databases: Microsoft SQL Server (SSMS, SSIS), MySQL
-## - Data visualization: Microsoft PowerBI, Tableau Desktop, RapidMiner AI Studio, ERDPlus
+- Programming languages: Java, SQL, T-SQL
+- Databases: Microsoft SQL Server (SSMS, SSIS), MySQL
+- Data visualization: Microsoft PowerBI, Tableau Desktop, RapidMiner AI Studio, ERDPlus
 
 ## Certifications:
-## - IBM Advanced badge - November 2024
-## - IBM Concepts badge - November 2024 
-## - Microsoft Office Specialist: Excel Expert - August 2024
+- IBM Advanced badge - November 2024
+- IBM Concepts badge - November 2024 
+- Microsoft Office Specialist: Excel Expert - August 2024
 
 ## Connect with me!
-## - MaahumSattar@gmail.com
-## - Linkedin: Linkedin.com/in/Maahum-Sattar
+- MaahumSattar@gmail.com
+- Linkedin: Linkedin.com/in/Maahum-Sattar
 <!--
 **MaahumS/MaahumS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: MaahumSattar@gmail.com
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: ...
--->
