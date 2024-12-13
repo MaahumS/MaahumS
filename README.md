@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Maahum Sattar!
 ## About Me: 
-## - I am located in: Dallas, Texas 
-## - Senior at the University of North Texas Honors College
+- I am located in: Dallas, Texas 
+- Senior at the University of North Texas Honors College
 ## - Pursuing a Bachelor of Business Administration in Business Analytics with a concentration in Information Systems 
 ## - Honors student with a 4.0 GPA, actively seeking data analytics internships and full-time opportunities
 ## - My areas of interest: Data preprocessing and cleaning, data warehousing, data mining, and data visualization
