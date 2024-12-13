@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Maahum Sattar!
+# Hi there 👋 I'm Maahum Sattar!
 ## About Me: 
 ## - I am located in: Dallas, Texas 
 ## - Senior at the University of North Texas Honors College
@@ -11,7 +11,7 @@
 ## - Databases: Microsoft SQL Server (SSMS, SSIS), MySQL
 ## - Data visualization: Microsoft PowerBI, Tableau Desktop, RapidMiner AI Studio, ERDPlus
 
-# Certifications:
+## Certifications:
 ## - IBM Advanced badge - November 2024
 ## - IBM Concepts badge - November 2024 
 ## - Microsoft Office Specialist: Excel Expert - August 2024
