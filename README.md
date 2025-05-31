@@ -1,19 +1,19 @@
 # Hi there 👋 I'm Maahum Sattar!
-## About Me: 
+## Get to Know Me: 
 - I am located in: Dallas, Texas 
-- Senior at the University of North Texas Honors College
-- Pursuing a Bachelor of Business Administration in Business Analytics with a concentration in Information Systems 
-- Honors student with a 4.0 GPA, actively seeking data analytics internships and full-time opportunities
-- My areas of interest: Data preprocessing and cleaning, data warehousing, data mining, and data visualization
+- I graduated Summa Cum Laude from: The University of North Texas Honors College
+- My Degree: Bachelor of Business Administration in Business Analytics with a concentration in Information Systems 
+- My areas of Expertise: Descriptive and inferential statistics, data modeling, object-oriented programming, storytelling
+- My areas of Interest*: Machine learning, AI automation, R (programming language) - these are tools/fields I am currently fascinated by and learning about! 
 
 ## Skills:
-- Programming languages: Java, SQL, T-SQL
-- Databases: Microsoft SQL Server (SSMS, SSIS), MySQL
-- Data visualization: Microsoft PowerBI, Tableau Desktop, RapidMiner AI Studio, ERDPlus
+- Programming languages: Java, SQL, T-SQL, Python, Microsoft VBA
+- Databases: Microsoft SQL Server (SSMS, SSIS), MySQL, Db2
+- Data visualization & reporting: Microsoft Excel, Microsoft PowerBI, Tableau
+- Data modeling & forecasting: Minitab, SPSS
 
 ## Certifications:
 - IBM Advanced badge - November 2024
-- IBM Concepts badge - November 2024 
 - Microsoft Office Specialist: Excel Expert - August 2024
 
 ## Connect with me!
