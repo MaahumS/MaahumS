@@ -13,7 +13,7 @@
 - **Data modeling & forecasting:** Minitab, SPSS
 
 ## Connect with me!
-- 💌 MaahumSattar@gmail.com
-- 💼 Linkedin: Linkedin.com/in/Maahum-Sattar
+- 💌 Email: [MaahumSattar@gmail.com](mailto:MaahumSattar@gmail.com)  
+- 💼 Linkedin: [linkedin.com/in/maahum-sattar](https://www.linkedin.com/in/maahum-sattar)
 <!--
 **MaahumS/MaahumS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
