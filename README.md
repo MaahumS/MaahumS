@@ -9,7 +9,7 @@
 ## Skills:
 - **Programming languages:** Java, SQL, T-SQL, Python, Microsoft VBA
 - **Databases:** Microsoft SQL Server (SSMS, SSIS), MySQL, Db2
-- **Data visualization & reporting:** Microsoft Excel, Microsoft PowerBI, Tableau
+- **Data visualization & reporting:** Microsoft Excel, Microsoft Power BI, Tableau
 - **Data modeling & forecasting:** Minitab, SPSS
 
 ## Connect with me!
