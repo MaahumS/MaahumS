@@ -14,6 +14,6 @@
 
 ## Connect with me!
 - 💌 Email: [MaahumSattar@gmail.com](mailto:MaahumSattar@gmail.com)  
-- 💼 Linkedin: [linkedin.com/in/maahum-sattar](https://www.linkedin.com/in/maahum-sattar)
+- 💼 Linkedin: [linkedin.com/in/Maahum-Sattar](https://www.linkedin.com/in/maahum-sattar)
 <!--
 **MaahumS/MaahumS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
