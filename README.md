@@ -3,8 +3,8 @@
 - 📍 I am located in: Dallas, Texas 
 - 🎓 I graduated **Summa Cum Laude** from: **The University of North Texas Honors College**
 - 📚 My Degree: Bachelor of Business Administration in **Business Analytics** with a concentration in **Information Systems** 
-- 🧠 My areas of Expertise: Descriptive and inferential statistics, data modeling, object-oriented programming, storytelling
-- 🤔 My areas of Interest: Machine learning and AI automation - things I am currently fascinated by and learning about! 
+- 🧠 My areas of Interest: Machine learning and AI automation - things I am currently fascinated by and learning about! 
+- 🤔 Currently working on: Power BI Data Analyst Professional Certificate 
 
 ## Skills:
 - **Programming languages:** Java, SQL, T-SQL, Python, Microsoft VBA
